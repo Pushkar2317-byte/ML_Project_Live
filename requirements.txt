@@ -1,0 +1,10 @@
+cdsapi
+cfgrib
+joblib
+matplotlib
+numpy
+pandas
+sklearn
+streamlit
+xarray
+zipfile
